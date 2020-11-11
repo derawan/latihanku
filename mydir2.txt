@@ -1,0 +1,52 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1C6D-7F67
+
+ Directory of c:\
+
+14/08/2020  12:59    <DIR>          2020
+28/02/2020  16:07    <DIR>          AMD
+07/11/2007  08:00            17.734 eula.1028.txt
+07/11/2007  08:00            17.734 eula.1031.txt
+07/11/2007  08:00            10.134 eula.1033.txt
+07/11/2007  08:00            17.734 eula.1036.txt
+07/11/2007  08:00            17.734 eula.1040.txt
+07/11/2007  08:00               118 eula.1041.txt
+07/11/2007  08:00            17.734 eula.1042.txt
+07/11/2007  08:00            17.734 eula.2052.txt
+07/11/2007  08:00            17.734 eula.3082.txt
+07/11/2007  08:00             1.110 globdata.ini
+25/04/2019  16:51    <DIR>          Go
+07/11/2007  08:03           562.688 install.exe
+07/11/2007  08:00               843 install.ini
+07/11/2007  08:03            76.304 install.res.1028.dll
+07/11/2007  08:03            96.272 install.res.1031.dll
+07/11/2007  08:03            91.152 install.res.1033.dll
+07/11/2007  08:03            97.296 install.res.1036.dll
+07/11/2007  08:03            95.248 install.res.1040.dll
+07/11/2007  08:03            81.424 install.res.1041.dll
+07/11/2007  08:03            79.888 install.res.1042.dll
+07/11/2007  08:03            75.792 install.res.2052.dll
+07/11/2007  08:03            96.272 install.res.3082.dll
+16/03/2019  16:48    <DIR>          Intel
+12/06/2019  15:23         4.099.700 jt400.jar
+09/06/2020  00:39    <DIR>          Knowledge Based
+11/11/2020  19:19    <DIR>          Latihan
+29/02/2020  08:11    <DIR>          Master
+20/08/2020  09:01    <DIR>          My Work
+06/08/2020  16:42    <DIR>          my_project
+13/11/2019  11:04        26.757.632 ngrok.exe
+15/09/2018  14:33    <DIR>          PerfLogs
+11/11/2020  17:21    <DIR>          Program Files
+24/08/2020  14:45    <DIR>          Program Files (x86)
+09/06/2020  01:00    <DIR>          Project
+06/04/2019  05:17    <DIR>          SQLServer2017Media
+29/02/2020  08:13    <DIR>          tutorial
+16/03/2019  16:56    <DIR>          Users
+07/11/2007  08:00             5.686 vcredist.bmp
+07/11/2007  08:09         1.442.522 VC_RED.cab
+07/11/2007  08:12           232.960 VC_RED.MSI
+11/11/2020  17:24    <DIR>          Windows
+30/04/2019  11:46    <DIR>          xampp
+12/10/2019  13:52    <DIR>          xampp56
+              26 File(s)     34.027.179 bytes
+              19 Dir(s)  69.951.262.720 bytes free

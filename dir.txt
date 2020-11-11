@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1C6D-7F67
+
+ Directory of c:\Latihan\Project03
+
+11/11/2020  19:32    <DIR>          .
+11/11/2020  19:32    <DIR>          ..
+11/11/2020  19:32                 0 dir.txt
+11/11/2020  19:32                18 irfan.txt
+               2 File(s)             18 bytes
+               2 Dir(s)  69.949.267.968 bytes free
